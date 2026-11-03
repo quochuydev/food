@@ -5,7 +5,7 @@ cart, apply coupons, and check out with Cash-on-Delivery or Stripe — no
 account required. Includes a PIN-gated `/admin` page to view orders and
 update status.
 
-Live: https://sandwich.cappuai.com
+Live: https://food.cappuai.com
 
 ## Stack
 
